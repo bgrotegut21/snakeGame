@@ -1,0 +1,28 @@
+.grid {
+  position: relative;
+
+  width: 600px;
+  height: 600px;
+  background: rgb(58, 165, 58);
+}
+
+.block {
+  position: absolute;
+
+  background: blue;
+
+  width: 40px;
+  height: 40px;
+}
+
+.mainBlock {
+  background: purple;
+}
+
+.apple {
+  position: absolute;
+
+  background: red;
+  width: 40px;
+  height: 40px;
+}
